@@ -6,7 +6,7 @@
 
 If you encounter any bugs or issues, feel free to open an issue.
 
-Contact Telegram: [@zerotrace-00](https://t.me/zerotrace-00)
+Contact Telegram: [@zerotrace_00](https://t.me/zerotrace_00)
 
 ---
 
