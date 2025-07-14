@@ -18,6 +18,10 @@ ZTrace Toolkit is a **modular remote diagnostic system**, designed to assist sec
 
 **👉 [Download ZTrace Builder v11](https://github.com/ZeroTrace-00/ZTrace-Toolkit/releases/download/ztrace-11/ZTrace-11.zip)**
 
+## Setup Guide
+
+**👉 [How to create a Telegram Bot](https://github.com/ZeroTrace-00/TelegramBot-Setup-Guide)**
+
 ---
 
 ## 🔍 Capabilities
